@@ -2,7 +2,7 @@
 <html>
     <body>
     <h1 style="font-size:60px;">Welcome to the World of HTML</h1>
-    
+
     <ul>
        <u>
         <li style="color: blue;">Section 1</li>
