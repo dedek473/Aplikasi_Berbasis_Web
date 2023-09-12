@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1 style="font-size:60px;">Welcome to the World of HTML</h1>
+    
+    <ul>
+       <u>
+        <li style="color: blue;">Section 1</li>
+        <li style="color: blue;">Section 2</li>
+        <li style="color: blue;">Section 3</li>
+        </u>
+    </ul>
+
+    <h1 style="font-size: 30px;">Section 1 : Introduction to HTML</h1>
+    <p>HTML (Hypertext Markup Language) is the standar markup language for creatung web pages, It provides the
+        <br>structure and content of a web page.</p>
+
+    <p>In this section, we'll explore the basic of HTML and its key elements.</p>
+
+    <h1 style="font-size: 30;">Section 2 : HTML Paragraphs</h1>
+    <p>Paragraphs are used to strcuture text content on a web page. They provide a clear separation between different
+        <br>pieces of information.</p>
+
+    <p>You can easily create paragraphs by enclosing your text within <sub>p</sub> tags </p>
+
+    <h1 style="color: blue;">Section 3 : Styling and Formatting</h1>
+
+    <p style="color: green;">CSS (Cascading Style Sheets) allows you to style your HTML documents, Let;s apply some styles to our
+    <br>headings and paragraphs</p>
+
+    <b style="color: red;">This text is bold,</b> <i style="color: red;">This text is italic,</i> <u style="color: red;">This text is underlined</u>
+
+    <ol>
+        <li>Ordered List Item 1</li>
+        <li>Ordered List item 2</li>
+        <li>Ordered List Item 3</li>
+    </ol>
+
+    <ul>
+        <li>Unordered List Item 1</li>
+        <li>Unordered List Item 2</li>
+        <li>Unordered List Item 3</li>
+    </ul>
+
+        <p>This is blockquote, It's often used to highlights quotes or important information.</p>
+
+    </body>
+</html>
