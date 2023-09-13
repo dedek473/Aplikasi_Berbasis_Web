@@ -21,7 +21,7 @@
     <p>Paragraphs are used to strcuture text content on a web page. They provide a clear separation between different
         <br>pieces of information.</p>
 
-    <p>You can easily create paragraphs by enclosing your text within <sub>p</sub> tags </p>
+    <p>You can easily create paragraphs by enclosing your text within < p > tags </p>
 
     <h1 style="color: blue;">Section 3 : Styling and Formatting</h1>
 
